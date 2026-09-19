@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">A notebook and coffee on a desk</title>
+  <desc id="desc">An illustrated workspace for the featured blog post.</desc>
+  <rect width="800" height="600" fill="#dbeafe"/>
+  <circle cx="650" cy="120" r="88" fill="#fbbf24" opacity=".9"/>
+  <rect x="95" y="120" width="470" height="350" rx="18" fill="#fff" transform="rotate(-7 330 295)"/>
+  <rect x="145" y="175" width="350" height="18" rx="9" fill="#1e3a8a" transform="rotate(-7 320 184)"/>
+  <rect x="140" y="230" width="290" height="12" rx="6" fill="#93c5fd" transform="rotate(-7 285 236)"/>
+  <rect x="132" y="270" width="325" height="12" rx="6" fill="#bfdbfe" transform="rotate(-7 294 276)"/>
+  <rect x="126" y="310" width="245" height="12" rx="6" fill="#bfdbfe" transform="rotate(-7 249 316)"/>
+  <path d="M570 350c0-76 123-76 123 0v85H570z" fill="#f97316"/>
+  <ellipse cx="631" cy="350" rx="62" ry="18" fill="#9a3412"/>
+  <path d="M692 375c67-25 83 50 11 53" fill="none" stroke="#f97316" stroke-width="18"/>
+  <path d="M600 315c-14-38 19-46 8-78M645 315c-14-38 19-46 8-78" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity=".65"/>
+</svg>

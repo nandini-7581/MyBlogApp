@@ -1,0 +1,40 @@
+.row.mb-2 .bd-placeholder-img {
+	width: 200px;
+	height: 250px;
+	object-fit: cover;
+}
+
+.new-post-page {
+	max-width: 720px;
+	margin: 3rem auto;
+	padding: 0 1rem;
+}
+
+.new-post-form {
+	width: 100%;
+}
+
+.blog-header-logo {
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 1.5rem;
+	font-weight: 700;
+}
+
+.update-panel {
+	max-width: 680px;
+	padding: 2.5rem;
+	border: 1px solid var(--bs-border-color);
+	border-radius: 0.75rem;
+	background: var(--bs-body-bg);
+	box-shadow: 0 1rem 2rem rgba(33, 37, 41, 0.08);
+}
+
+.update-form .form-select {
+	min-height: 3.5rem;
+}
+
+@media (max-width: 576px) {
+	.update-panel {
+		padding: 1.5rem;
+	}
+}
